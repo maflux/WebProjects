@@ -1,0 +1,8 @@
+build/*
+dist/*
+nbproject/*
+*.mf
+*.war
+*.jar
+*.ear
+*.class
